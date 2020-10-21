@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cache-group'
+
+include 'cache-group'
+include 'example'
